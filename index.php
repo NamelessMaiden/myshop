@@ -15,7 +15,7 @@
     <div class="mainImage.text">
         Super awesome discount only today
     </div>
-    <img src="img/Rectangle%201.pn">
+    <img src="img/Rectangle%201.png">
 
 </div>
 
